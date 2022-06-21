@@ -6,9 +6,7 @@ Files included:
 
 - MyLinkedList.java;
 - MyLinkedListInterface.java;
-- TangledList.java;
-- Assign2Proof-30061139.md;
-- Assign2Proof-30061139.pdf.
+- TangledList.java.
 
 ### Compilation and Running
 
