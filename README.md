@@ -1,10 +1,8 @@
-# CPSC331 Assignment 2
-
-## Kadin Sayani, UCID: 30061139
+# Linked List Algs
 
 ### Overview
 
-Files included in submission:
+Files included:
 
 - MyLinkedList.java;
 - MyLinkedListInterface.java;
